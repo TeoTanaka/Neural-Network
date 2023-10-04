@@ -17,10 +17,5 @@ last_inp = inp_split[-1]#last letter of the input
 
 #IF the last letter of the input == to something in the training data
 
-
-
-
-
-    
-
-
+for a in training:
+    if a == 
